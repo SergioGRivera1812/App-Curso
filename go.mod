@@ -1,6 +1,6 @@
-module github.com/SergioGRivera1812/App-Curso
+module //github.com/SergioGRivera1812/App-Curso
 
-go 1.13
+go 1.17
 
-requiere(
+require (
 )
